@@ -132,3 +132,4 @@ C:\C#\APIUsuarios\obj\Debug\net8.0\refint\APIUsuarios.dll
 C:\C#\APIUsuarios\obj\Debug\net8.0\APIUsuarios.pdb
 C:\C#\APIUsuarios\obj\Debug\net8.0\APIUsuarios.genruntimeconfig.cache
 C:\C#\APIUsuarios\obj\Debug\net8.0\ref\APIUsuarios.dll
+C:\C#\APIUsuarios\bin\Debug\net8.0\APIUsuarios.postman_collection.json
