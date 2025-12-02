@@ -1,0 +1,9 @@
+C:\C#\APIUsuarios\obj\Debug\net8.0\APIUsuarios.csproj.AssemblyReference.cache
+C:\C#\APIUsuarios\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\C#\APIUsuarios\obj\Debug\net8.0\APIUsuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\APIUsuarios\obj\Debug\net8.0\APIUsuarios.AssemblyInfoInputs.cache
+C:\C#\APIUsuarios\obj\Debug\net8.0\APIUsuarios.AssemblyInfo.cs
+C:\C#\APIUsuarios\obj\Debug\net8.0\APIUsuarios.csproj.CoreCompileInputs.cache
+C:\C#\APIUsuarios\obj\Debug\net8.0\APIUsuarios.MvcApplicationPartsAssemblyInfo.cs
+C:\C#\APIUsuarios\obj\Debug\net8.0\APIUsuarios.MvcApplicationPartsAssemblyInfo.cache
+C:\C#\APIUsuarios\obj\Debug\net8.0\APIUsuarios.sourcelink.json
