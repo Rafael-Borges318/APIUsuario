@@ -41,3 +41,6 @@ Esta API também conta com documentação via Swagger, tornando a exploração d
 Autor: Rafael Borges de Souza Lima
 RA: 2025001110
 Curso: ADS
+
+
+Link do vídeo : https://drive.google.com/file/d/1O9he35Q7F-0ln5-c2IJ9JxEe0UHInx2J/view?usp=sharing
